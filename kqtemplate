@@ -16,6 +16,10 @@
 
 // @grant none
 
+// @updateURL https://github.com/Nothing3141/KqTemplate/blob/main/kqtemplate
+
+// @downloadURL https://github.com/Nothing3141/KqTemplate/blob/main/kqtemplate
+
 // ==/UserScript==
 
 if (window.top !== window.self) {
